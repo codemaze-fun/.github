@@ -12,21 +12,6 @@ CodeMaze, is a non-profit programming educational program that helps young coder
 - [codemaze.dev](https://codemaze.dev) is the sandbox dev space for experimenting coding snippets.
 
 
-## Roles
-
-#### Instructors
-
-- Instructors are a group of paid contractors with enthusism of teaching kids programming. 
-
-#### Cadets
-
-- Cadets are the group of young coders who want to learn better coding skills at CodeMaze.
-
-#### Mentors
-
-- Mentors are a group of volunteers with real-world engineering experience. They help with code reviews, small talks and discussions.
-
-
 <!--
 **Here are some ideas to get you started:**
 
