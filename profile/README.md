@@ -1,7 +1,33 @@
-## Hi there 👋
+# 👋 CodeMaze 👋
+
+## About
+
+CodeMaze, is a non-profit programming educational program that helps young coders to bootstrap and lubricate them coding skills.
+
+
+## Services
+
+- [codemaze.fun](https://codemaze.fun) is an informational site that gives educational tips about programming.
+
+- [codemaze.dev](https://codemaze.dev) is the sandbox dev space for experimenting coding snippets.
+
+
+## Roles
+
+#### Instructors
+
+- Instructors are a group of paid contractors with enthusism of teaching kids programming. 
+
+#### Cadets
+
+- Cadets are the group of young coders who want to learn better coding skills at CodeMaze.
+
+#### Mentors
+
+- Mentors are a group of volunteers with real-world engineering experience. They help with code reviews, small talks and discussions.
+
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
