@@ -2,7 +2,7 @@
 
 ## About
 
-CodeMaze, is a non-profit programming educational community that helps young coders to bootstrap and lubricate them coding skills with modern methodology and best practices.
+CodeMaze, is a non-profit programming educational community that helps young coders to bootstrap and lubricate their coding skills with industrial best practices.
 
 
 ## Services
